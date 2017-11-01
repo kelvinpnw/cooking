@@ -1,8 +1,7 @@
 # Cooking!
 
-## This is a repository of recipes shared amongst friends!
-
-## Check out the pictures section for pictures of the food cooked!
+This is a repository of recipes shared amongst friends!
+Check out the pictures section for pictures of the food cooked!
 
 ---
 
